@@ -1,6 +1,9 @@
 
-<h1 align="center">![image](https://user-images.githubusercontent.com/34407124/151802305-dc017aea-dee6-45e9-a34f-82ddf7becb33.png)
-About Sakalin Tonmoy</h1>
+![image](https://user-images.githubusercontent.com/34407124/151802305-dc017aea-dee6-45e9-a34f-82ddf7becb33.png)<h1 align="center">About Sakalin Tonmoy</h1>
+
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
 #### Md Golam Saklain Hossain is a graduate of Computer Science and Engineering (CSE) from North South University (NSU), the first private university in Bangladesh.He is now working as a Web Application Developer at GQ GROUP OF COMPANIES.
 
