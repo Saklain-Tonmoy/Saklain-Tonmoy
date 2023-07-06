@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang and Beego**
 
-- 💬 Ask me about **Python, Golang, PHP, Laravel, Node Js, Vue Js, OOP etc.**
+- 💬 Ask me about **Python, Data Engineering, Data Analysis, Golang, PHP, OOP etc.**
 
 - 📫 How to reach me **tonmoysaklain@gmail.com**
 
